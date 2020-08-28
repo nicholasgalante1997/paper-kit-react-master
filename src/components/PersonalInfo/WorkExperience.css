@@ -1,0 +1,14 @@
+.fancy-big {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.work-title {
+    font-size: 18px;
+    border-bottom-style: solid;
+}
+
+.subtitle {
+    font-style: oblique;
+    font-variant: small-caps;
+}
