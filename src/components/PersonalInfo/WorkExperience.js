@@ -33,8 +33,7 @@ const WorkExperience = () => {
                     <p className='subtitle'>Full Stack Developer</p>
                     <p>
                        My passion is in people! I found that I have thrived the most in high energy environments, surrounded by people also pursuing their passion. 
-                       While I first began learning to code in Ruby, which remains my choice of backend language, I found I really hit my stride when I stumbled, as we all do, into Javascript and React.js!
-                       My focus in the future is to deal directly with the forefront of user interface, and aid in crafting the technologies that define how we'll communicate tomorrow!
+                       Outside of company culture, what I am really searching for is a role that deals in the forefront of technological development and machine learning! My brain has always been ambitiously logically driven, and I'd like to apply this understanding of complex problem solving and object oriented thinking to craft future technologies that redefine our perception of learning!
                     </p>
                 </Col>
             </Row>

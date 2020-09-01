@@ -23,11 +23,14 @@ const ContactPage = () => {
                </Col>
                <Col md={6}>           
                         <strong>
-                            Lets Get in Touch!
+                            I Know You Liked The Website, So Lets Get in Touch And Talk About Your Technological and Development Needs!
                         </strong>
+                        <p><em>Email: </em></p>
+                        <a href="mailto:nicholasgalante1997@gmail.com">
                         <p>
-                        Email; nicholasgalante1997@gmail.com 
+                        nicholasgalante1997@gmail.com 
                         </p>
+                        </a>
                         <p>
                             <a href="https://www.linkedin.com/in/nicholas-galante-1963041a2/">LinkedIn</a>
                         </p>
@@ -42,7 +45,7 @@ const ContactPage = () => {
                 </strong>
                 <small className='fancy'> Software Engineering Immersive Bootcamp</small>
                 <p className='fancy'>May 2020 - August 2020</p>
-                <p>Developed an understanding of core CS priniples, specifically Complex Data Structures and Object Oriented Programming.</p>
+                <p>Developed an understanding of core CS principles, specifically Complex Data Structures and Object Oriented Programming.</p>
                 <strong className='bold'>
                     SUNY Binghamton 
                 </strong>

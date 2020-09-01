@@ -30,7 +30,9 @@ function DemoFooter() {
           <nav className="footer-nav">
             <ul>
               <li>
+                <a href="mailto:nicholasgalante1997@gmail.com">
                 nicholasgalante1997@gmail.com
+                </a>
               </li>
             </ul>
           </nav>

@@ -124,14 +124,6 @@ function IndexNavbar() {
                 <p className="d-lg-none">GitHub</p>
               </NavLink>
             </NavItem>
-            <NavItem>
-              <NavLink
-                href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-index-navbar"
-                target="_blank"
-              >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
-              </NavLink>
-            </NavItem>
           </Nav>
         </Collapse>
       </Container>

@@ -56,7 +56,7 @@ function SectionProgress() {
               <Progress
                 max="100"
                 value="95"
-                barClassName="progress-bar-success"
+                barClassName="progress-bar-danger"
               />
               <br />
               <label>Javascript</label>
@@ -73,7 +73,7 @@ function SectionProgress() {
               <Progress
                 max="100"
                 value="85"
-                barClassName="progress-bar-danger"
+                barClassName="progress-bar-success"
               />
               <br /> 
               <label>Python</label>

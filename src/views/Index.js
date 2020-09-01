@@ -46,6 +46,7 @@ import ContactPage from '../components/PersonalInfo/ContactInfo'
 import WorkExperience from 'components/PersonalInfo/WorkExperience'
 import TechnicalSkills from 'components/PersonalInfo/TechnicalSkills'
 import ProjectShowcase from 'components/PersonalInfo/ProjectShowcase'
+import FunStuff from 'components/PersonalInfo/FunStuff'
 
 function Index() {
   document.documentElement.classList.remove("nav-open");
@@ -65,6 +66,7 @@ function Index() {
         <WorkExperience/>
         <TechnicalSkills/>
         <ProjectShowcase/>
+        <FunStuff/>
         {/* END OF MY COMPONENTS */}
         <DemoFooter />
       </div>
